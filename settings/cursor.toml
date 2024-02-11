@@ -1,0 +1,5 @@
+[cursor]
+style={shape="Block",blinking="Always"}
+blink_interval=450
+
+
