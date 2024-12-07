@@ -8,6 +8,6 @@
 
 `git clone https://github.com/fatherofphysics/alacritty && cd alacritty`
 
-`mv *.*  $XDG_CONFIG_HOME/alacritty`
+`mv $(pwd)/* $XDG_CONFIG_HOME/alacritty/`
 
 Restart alacritty
